@@ -1,0 +1,23 @@
+﻿
+.message-box{
+    min-height: 20em;
+    overflow-y:scroll;
+    max-height:20em;
+    overflow-x: hidden;
+
+}
+.chat-input-group {
+    
+}
+.speech-bubble{
+    background-color: cadetblue;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left:20px;
+    padding-right:20px;
+    border-bottom-left-radius:20px;
+    border-top-right-radius:20px;
+    border-top-left-radius:20px;
+    list-style:none;
+}
+
